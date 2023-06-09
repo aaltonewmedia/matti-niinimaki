@@ -8,3 +8,8 @@ type: 'students'
 ---
 
 ## Matti's Projects
+
+This is a list of my projects:
+
+- Project #1
+- Project #2
